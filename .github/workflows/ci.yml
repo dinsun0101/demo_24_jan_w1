@@ -9,7 +9,7 @@ on:
       - main
 
 env:
-  REPOSITORY_NAME: dinsun0101
+  REPOSITORY_NAME: mlops-demo
   IMAGE_TAG: latest
 
 jobs:
